@@ -1,10 +1,11 @@
 import React from "react";
+import Questions from "./Components/Questions";
 
 function Home() {
   return (
-    <>
-      <h3>From App </h3>
-    </>
+    <div className="p-28 inter">
+      <Questions />
+    </div>
   );
 }
 
