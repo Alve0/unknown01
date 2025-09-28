@@ -2,8 +2,8 @@ import React from "react";
 
 export default function Questions() {
   return (
-    <div className="space-y-4">
-      <h3 className="text-center font-bold text-3xl mb-24">
+    <div className="space-y-4 mb-10">
+      <h3 className="lg:text-center font-bold text-2xl lg:text-5xl mb-24  sm:text-left">
         Frequently Asked Questions
       </h3>
 
