@@ -5,7 +5,7 @@ import Footer from "./Components/Footer";
 
 function Home() {
   return (
-    <div className="lg:p-28 p-7 inter">
+    <div className="lg:p-28 p-7 inter max-w-7xl mx-auto">
       <Questions />
       <GetInTouch />
       <Footer />

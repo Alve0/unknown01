@@ -3,7 +3,7 @@ import { FaArrowRight } from "react-icons/fa";
 
 export default function GetInTouch() {
   return (
-    <div className="flex flex-col items-center gap-10 bg-[#0058FF] pt-12 p-5 rounded-lg">
+    <div className="flex flex-col items-center gap-10 bg-[#0058FF] py-16 my-26 p-5 rounded-lg">
       <h3 className="text-5xl font-bold text-white text-center ">
         Get In Touch
       </h3>
